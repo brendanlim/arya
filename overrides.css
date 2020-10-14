@@ -3,6 +3,7 @@ body {
 }
 div.col-md {
   padding: 0px;
+  min-height: 210px;
 }
 @media (max-width: 767.98px) {
   div.container {
